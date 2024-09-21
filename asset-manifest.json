@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DacoDev06/frontend-movies/static/css/main.78aab26d.css",
+    "main.js": "/DacoDev06/frontend-movies/static/js/main.cd831463.js",
+    "index.html": "/DacoDev06/frontend-movies/index.html",
+    "main.78aab26d.css.map": "/DacoDev06/frontend-movies/static/css/main.78aab26d.css.map",
+    "main.cd831463.js.map": "/DacoDev06/frontend-movies/static/js/main.cd831463.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78aab26d.css",
+    "static/js/main.cd831463.js"
+  ]
+}
